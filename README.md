@@ -30,5 +30,5 @@
    1. Unzip project
    1. Add project files to your github repo
 1. Add project to your github repo
-1. Run meetup-next-example project, and go to: http://localhost:8080/hello
+1. Run `meetup-next-example` project, and go to: http://localhost:8080/hello
 1. Add a Dockerfile to the project
