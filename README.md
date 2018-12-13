@@ -32,3 +32,8 @@
 1. Add project to your github repo
 1. Run `meetup-next-example` project, and go to: http://localhost:8080/hello
 1. Add a Dockerfile to the project
+1. Build the image
+   1. `$ docker build -t meetup-next-example:1.0 .`
+1. Run docker container
+   1. `docker run -it -p 8087:8080 meetup-next-example:1.0`
+1. Go to http://localhost:8087/hello
