@@ -18,6 +18,8 @@
     Hello from Docker!
     This message shows that your installation appears to be working correctly.
     ```
+1. Install JDK 1.8+
+1. Install maven 3.5+
 1. Create Java App
    1. https://thorntail.io/
    1. Generate project
@@ -27,3 +29,5 @@
       1. Generate Project
    1. Unzip project
    1. Add project files to your github repo
+1. Add project to your github repo
+1. 
