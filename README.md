@@ -24,10 +24,11 @@
    1. https://thorntail.io/
    1. Generate project
       1. Set a group Id: io.augusto
-      1. Set a artifact Id: simple-rest-example
+      1. Set a artifact Id: meetup-next-example
       1. Select JAX-RS, JSON-P, CDI
       1. Generate Project
    1. Unzip project
    1. Add project files to your github repo
 1. Add project to your github repo
-1. 
+1. Run meetup-next-example project, and go to: http://localhost:8080/hello
+1. Add a Dockerfile to the project
